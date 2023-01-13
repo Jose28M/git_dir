@@ -1,0 +1,11 @@
+/texto_1.txt
+/texto_2.txt
+
+# ignorando una carpeta con archivos
+# ejemplo_a_ignorar/*
+#ejemplo_a_ignorar/a.txt
+#ejemplo_a_ignorar/b.txt
+#ejemplo_a_ignorar/c.txt
+
+# con este comando solo ignora los tipo texto 
+ejemplo_a_ignorar/*.txt
